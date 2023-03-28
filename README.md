@@ -1,7 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Reetesh Kumar
-=====================================================================================================================================
-
-Frontend Web Developer
+Frontend Developer
 ----------------------
 
 Self-motivated Frontend Developer. Love to build. Morning start with JavaScript & React init. I create successful responsive web apps that are fast, easy to use, and built with best practices. The main area of my expertise in front-end development using REACT, JAVASCRIPT, CSS building medium and complex web apps, custom plugins, features, animations and coding interactive layouts.

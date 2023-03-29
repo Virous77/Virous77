@@ -6,7 +6,7 @@ Self-motivated Frontend Developer. Love to build. Morning start with JavaScript 
 * 🌍  I'm based in Patna Bihar India
 * 🖥️  See my portfolio at [reetesh-virous.in](http://reetesh-virous.netlify.app/)
 * ✉️  You can contact me at [rajreetesh7@gmail.com](mailto:rajreetesh7@gmail.com)
-* 🧠  I'm learning Advanced React
+* 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on Frontend Projects
 
 <!-- 

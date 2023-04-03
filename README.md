@@ -14,4 +14,4 @@ Self-motivated Frontend Developer. Love to build. Morning start with JavaScript 
 
 <p align="left"> <a href="https://www.github.com/virous77" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/iMBitcoinB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Virous77&theme=tokyonight)
+

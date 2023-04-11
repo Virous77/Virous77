@@ -1,7 +1,7 @@
 Frontend Developer
 ----------------------
 
-Self-motivated Frontend Developer. Love to build. Morning start with JavaScript & React init. I create successful responsive web apps that are fast, easy to use, and built with best practices. The main area of my expertise in front-end development using REACT, JAVASCRIPT, TYPESCRIPT, CSS building medium and complex web apps, custom plugins, features, animations and coding interactive layouts.
+Self-motivated Frontend Developer. Love to build. Morning start with JavaScript & React init. I create successful responsive web apps that are fast, easy to use, and built with best practices. The main area of my expertise in front-end development using REACT, JAVASCRIPT, TYPESCRIPT, CSS, SASS, NEXT.JS building medium and complex web apps, custom plugins, features, animations and coding interactive layouts.
 
 * 🌍  I'm based in Patna Bihar India
 * 🖥️  See my portfolio at [reetesh-virous.in](http://reetesh-virous.netlify.app/)

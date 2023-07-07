@@ -1,13 +1,13 @@
-Frontend Developer
+Full-Stack Developer
 ----------------------
 
-Self-motivated Frontend Developer. Love to build. Morning start with JavaScript & React init. I create successful responsive web apps that are fast, easy to use, and built with best practices. The main area of my expertise in front-end development using REACT, JAVASCRIPT, TYPESCRIPT, CSS, SASS, NEXT.JS building medium and complex web apps, custom plugins, features, animations and coding interactive layouts.
+Self-motivated Full-Stack Developer. Love to build. Morning start with JavaScript & React init. I create successful responsive web apps that are fast, easy to use, and built with best practices. The main area of my expertise in writing client and server both side code clean and efficient so we can make web apps sclable and maintainable. I do development using REACT, JAVASCRIPT, TYPESCRIPT, CSS, SASS, NEXT.JS building medium and complex web apps.
 
 * 🌍  I'm based in Patna Bihar India
 * 🖥️  See my portfolio at [reetesh-virous.in](http://reetesh-virous.netlify.app/)
 * ✉️  You can contact me at [rajreetesh7@gmail.com](mailto:rajreetesh7@gmail.com)
-* 🧠  I'm learning TypeScript
-* 🤝  I'm open to collaborating on Frontend Projects
+* 🧠  I'm learning Docker.
+* 🤝  I'm open to collaborating in Full-Stack Projects
 
 <!-- 
 ### Socials

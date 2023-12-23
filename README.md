@@ -53,5 +53,6 @@ Self-motivated Full-Stack Developer. Love to build. Morning start with **TypeScr
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="36" height="36" alt="Solidity" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+<img src="https://skills.thijs.gg/icons?i=rust,solidity,kubernetes,redis" />
 
 [website]: https://reetesh.in

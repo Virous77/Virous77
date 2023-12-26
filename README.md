@@ -10,6 +10,7 @@ Self-motivated Full-Stack Developer. Love to build. Morning start with **TypeScr
 
 <!-- BLOG:START -->
 
+- [Integrating Google Gemini to Node.js Application](https://reetesh.in/blog/integrating-google-gemini-to-node.js-application)
 - [Centralizing Error Handling in Node.js Express Applications](https://reetesh.in/blog/centralizing-error-handling-in-node.js-express-applications)
 - [State Management in React](https://reetesh.in/blog/state-management-in-react-apps)
 

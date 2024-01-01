@@ -10,16 +10,16 @@ Self-motivated Full-Stack Developer. Love to build. Morning start with **TypeScr
 
 <!-- BLOG:START -->
 
+- [Push Notification in React and Next.js app using Node.js](https://reetesh.in/blog/push-notification-in-react-and-next.js-app-using-node.js)
 - [Integrating Google Gemini to Node.js Application](https://reetesh.in/blog/integrating-google-gemini-to-node.js-application)
 - [Centralizing Error Handling in Node.js Express Applications](https://reetesh.in/blog/centralizing-error-handling-in-node.js-express-applications)
 - [State Management in React](https://reetesh.in/blog/state-management-in-react-apps)
 
 <!-- BLOG:END -->
 
-### 📬 Connect with me:
+<!-- ### 📬 Connect with me: -->
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/reetesh-kumar-a1b952178" target="_blank" rel="noreferrer">
+<!--     <a href="https://www.linkedin.com/in/reetesh-kumar-a1b952178" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
@@ -32,15 +32,10 @@ Self-motivated Full-Stack Developer. Love to build. Morning start with **TypeScr
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
         </picture>
-    </a>&nbsp;&nbsp;
-</p>
+    </a>&nbsp;&nbsp; -->
 
----
 
-### 💻 Tools I use
-
-<p align="left">
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+<!--  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
@@ -50,9 +45,9 @@ Self-motivated Full-Stack Developer. Love to build. Morning start with **TypeScr
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-<img src="https://skills.thijs.gg/icons?i=rust,solidity,kubernetes,redis" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /> -->
+<!-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /> -->
+<!-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /> -->
+<!-- <img src="https://skills.thijs.gg/icons?i=rust,solidity,kubernetes,redis" /> -->
 
 [website]: https://reetesh.in

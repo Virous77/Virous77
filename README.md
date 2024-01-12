@@ -1,6 +1,6 @@
 ## Full-Stack Developer
 
-Self-motivated Full-Stack Developer. Love to build. Morning start with **TypeScript & React init**. I create successful responsive web apps that are fast, easy to use, and built with best practices.
+Self-motivated Full-Stack Developer. Love to build. Morning start with **TypeScript & React init**. I create web apps that are fast, easy to navigate, and built with best practices.
 
 - 👨‍🏫 I enjoy writing TypeScript :)
 - 👨‍💻 Read my articles at [reetesh.in][website]

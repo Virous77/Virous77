@@ -9,11 +9,11 @@ Self-motivated Full-Stack Developer. Love to build. Morning start with **TypeScr
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Configuring Full-Stack Apps for Kubernetes Deployment](https://reetesh.in/blog/configuring-full-stack-apps-for-kubernetes-deployment)
+- [Dockerize your Fullstack app for development](https://reetesh.in/blog/dockerize-your-fullstack-app-for-development)
+- [Building DApps with React and Solidity on Ethereum](https://reetesh.in/blog/building-dapps-with-react-and-solidity-on-ethereum)
 - [Best SEO Practices for Next.js Apps](https://reetesh.in/blog/best-seo-practices-for-next.js-apps)
 - [Push Notification in React and Next.js app using Node.js](https://reetesh.in/blog/push-notification-in-react-and-next.js-app-using-node.js)
-- [Creating Rest API on BUN with ElysiaJS](https://reetesh.in/blog/creating-rest-api-on-bun-with-elysiajs)
-- [Integrating Google Gemini to Node.js Application](https://reetesh.in/blog/integrating-google-gemini-to-node.js-application)
-- [Centralizing Error Handling in Node.js Express Applications](https://reetesh.in/blog/centralizing-error-handling-in-node.js-express-applications)
 
 <!-- BLOG:END -->
 
@@ -50,4 +50,4 @@ Self-motivated Full-Stack Developer. Love to build. Morning start with **TypeScr
 <!-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /> -->
 <!-- <img src="https://skills.thijs.gg/icons?i=rust,solidity,kubernetes,redis" /> -->
 
-[website]: https://reetesh.in
+[website]: https://reetesh.in/blogs

@@ -9,11 +9,11 @@ Self-motivated Full-Stack Developer. Love to build. Morning start with **TypeScr
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Configuring Full-Stack Apps for Kubernetes Deployment](https://reetesh.in/blog/configuring-full-stack-apps-for-kubernetes-deployment)
-- [Dockerize your Fullstack app for development](https://reetesh.in/blog/dockerize-your-fullstack-app-for-development)
-- [Building DApps with React and Solidity on Ethereum](https://reetesh.in/blog/building-dapps-with-react-and-solidity-on-ethereum)
-- [Best SEO Practices for Next.js Apps](https://reetesh.in/blog/best-seo-practices-for-next.js-apps)
-- [Push Notification in React and Next.js app using Node.js](https://reetesh.in/blog/push-notification-in-react-and-next.js-app-using-node.js)
+- [Web3 Wallets connection using WalletConnect in Next.js](https://reetesh.in/blog/web3-wallets-connection-using-walletconnect-in-next.js)
+- [Next.Js Authentication using Lucia and MongoDB](https://reetesh.in/blog/next.js-authentication-using-lucia-and-mongodb)
+- [React useOptimistic and useTransition hooks Explained](https://reetesh.in/blog/react-useoptimistic-and-usetransition-hooks-explained)
+- [Tanstack Router with React Vite app and React Query](https://reetesh.in/blog/tanstack-router-with-react-vite-app-and-react-query)
+- [tRPC with Next.Js 14 and MongoDB setup](https://reetesh.in/blog/trpc-with-next.js-14-and-mongodb-setup)
 
 <!-- BLOG:END -->
 

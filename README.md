@@ -9,11 +9,11 @@ Self-motivated Full-Stack Developer. Love to build. Morning start with **TypeScr
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Docker - The Complete Guide to Build and Deploy your Application](https://reetesh.in/blog/docker-the-complete-guide-to-build-and-deploy-your-application)
+- [Server Action in Client and Server Component in Next.Js Explained](https://reetesh.in/blog/server-action-in-client-and-server-component-in-next.js-explained)
 - [Web3 Wallets connection using WalletConnect in Next.js](https://reetesh.in/blog/web3-wallets-connection-using-walletconnect-in-next.js)
 - [Next.Js Authentication using Lucia and MongoDB](https://reetesh.in/blog/next.js-authentication-using-lucia-and-mongodb)
 - [React useOptimistic and useTransition hooks Explained](https://reetesh.in/blog/react-useoptimistic-and-usetransition-hooks-explained)
-- [Tanstack Router with React Vite app and React Query](https://reetesh.in/blog/tanstack-router-with-react-vite-app-and-react-query)
-- [tRPC with Next.Js 14 and MongoDB setup](https://reetesh.in/blog/trpc-with-next.js-14-and-mongodb-setup)
 
 <!-- BLOG:END -->
 

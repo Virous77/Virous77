@@ -1,9 +1,10 @@
 ## Full-Stack Developer
 
-Self-motivated Full-Stack Developer. Love to build. Morning start with **TypeScript & React init**. I create web apps that are fast, easy to navigate, and built with best practices.[CV](https://cv.reetesh.in)
+Self-motivated Full-Stack Developer. Love to build. Morning start with **TypeScript & React init**. I create web apps that are fast, easy to navigate, and built with best practices.
 
 - 👨‍🏫 I enjoy writing TypeScript :)
 - 👨‍💻 Read my articles at [reetesh.in][website]
+- 🔖 Visit to my [CV](https://cv.reetesh.in)
 - ⚡ Motto: we learn, we grow, we shine
 
 ### 📚 Latest Blog Posts

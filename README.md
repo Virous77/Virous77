@@ -9,8 +9,8 @@ Self-motivated Full-Stack Developer. Love to build, Morning start with **TypeScr
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Tanstack Form with Next.JS App Router](https://reetesh.in/blog/tanstack-form-with-next.js-app-router)
-- [ElysiaJS with Next.JS and React Query](https://reetesh.in/blog/elysiajs-with-next.js-and-react-query)
+- [Deploy Next.JS App on AWS EC2 using Coolify](https://reetesh.in/blog/deploy-next.js-app-on-aws-ec2-using-coolify)
+- [IndexedDB in Recat using Dexie.js](https://reetesh.in/blog/indexeddb-in-recat-using-dexie.js)
 - [Neon DB with Drizzle and Hono in Next.JS](https://reetesh.in/blog/neon-db-with-drizzle-and-hono-in-next.js)
 - [React Cache Function Explained](https://reetesh.in/blog/react-cache-function-explained)
 - [Docker - The Complete Guide to Build and Deploy your Application](https://reetesh.in/blog/docker-the-complete-guide-to-build-and-deploy-your-application)

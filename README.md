@@ -9,6 +9,7 @@ Self-motivated Full-Stack Developer. Love to build, Morning start with **TypeScr
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Partial Prerendering in Next.js explained](https://reetesh.in/blog/partial-prerendering-in-next.js-explained)
 - [Streaming Components in Next.js using Suspense](https://reetesh.in/blog/streaming-components-in-next.js-using-suspense)
 - [Rate Limiter for Next.JS API Routes Explained](https://reetesh.in/blog/rate-limiter-for-next.js-api-routes-explained)
 - [ZSA Server Action in Next.JS Apps](https://reetesh.in/blog/zsa-server-action-in-next.js-apps)

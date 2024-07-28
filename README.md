@@ -11,11 +11,9 @@ Self-motivated Full-Stack Developer. Love to build, Morning start with **TypeScr
 <!-- BLOG:START -->
 - [Partial Prerendering in Next.js explained](https://reetesh.in/blog/partial-prerendering-in-next.js-explained)
 - [Streaming Components in Next.js using Suspense](https://reetesh.in/blog/streaming-components-in-next.js-using-suspense)
-- [Rate Limiter for Next.JS API Routes Explained](https://reetesh.in/blog/rate-limiter-for-next.js-api-routes-explained)
 - [ZSA Server Action in Next.JS Apps](https://reetesh.in/blog/zsa-server-action-in-next.js-apps)
 - [Suspense and Error Boundary in React Explained](https://reetesh.in/blog/suspense-and-error-boundary-in-react-explained)
 - [Deploy Next.JS App on AWS EC2 using Coolify](https://reetesh.in/blog/deploy-next.js-app-on-aws-ec2-using-coolify)
-- [Docker - The Complete Guide to Build and Deploy your Application](https://reetesh.in/blog/docker-the-complete-guide-to-build-and-deploy-your-application)
 
 
 <!-- BLOG:END -->

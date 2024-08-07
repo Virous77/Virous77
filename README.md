@@ -9,6 +9,7 @@ Self-motivated Full-Stack Developer. Love to build, Morning start with **TypeScr
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [MDX in Next.JS with App Router Setup Guide](https://reetesh.in/blog/mdx-in-next.js-with-app-router-setup-guide)
 - [Partial Prerendering in Next.js explained](https://reetesh.in/blog/partial-prerendering-in-next.js-explained)
 - [Streaming Components in Next.js using Suspense](https://reetesh.in/blog/streaming-components-in-next.js-using-suspense)
 - [ZSA Server Action in Next.JS Apps](https://reetesh.in/blog/zsa-server-action-in-next.js-apps)

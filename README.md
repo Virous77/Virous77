@@ -9,12 +9,12 @@ Self-motivated Full-Stack Developer. Love to build, Morning start with **TypeScr
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Button Gradient Border Animation with CSS](https://reetesh.in/blog/button-gradient-border-animation-with-css)
 - [MDX in Next.JS with App Router Setup Guide](https://reetesh.in/blog/mdx-in-next.js-with-app-router-setup-guide)
 - [Partial Prerendering in Next.js explained](https://reetesh.in/blog/partial-prerendering-in-next.js-explained)
 - [Streaming Components in Next.js using Suspense](https://reetesh.in/blog/streaming-components-in-next.js-using-suspense)
 - [ZSA Server Action in Next.JS Apps](https://reetesh.in/blog/zsa-server-action-in-next.js-apps)
 - [Suspense and Error Boundary in React Explained](https://reetesh.in/blog/suspense-and-error-boundary-in-react-explained)
-- [Deploy Next.JS App on AWS EC2 using Coolify](https://reetesh.in/blog/deploy-next.js-app-on-aws-ec2-using-coolify)
 
 
 <!-- BLOG:END -->

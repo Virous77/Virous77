@@ -12,9 +12,9 @@ Self-motivated Full-Stack Developer. Love to build, Morning start with **TypeScr
 - [Contentlayer with Next.JS latest App Router](https://reetesh.in/blog/contentlayer-with-next.js-latest-app-router)
 - [Button Gradient Border Animation with CSS](https://reetesh.in/blog/button-gradient-border-animation-with-css)
 - [MDX in Next.JS with App Router Setup Guide](https://reetesh.in/blog/mdx-in-next.js-with-app-router-setup-guide)
-- [Partial Prerendering in Next.js explained](https://reetesh.in/blog/partial-prerendering-in-next.js-explained)
 - [Streaming Components in Next.js using Suspense](https://reetesh.in/blog/streaming-components-in-next.js-using-suspense)
 - [Suspense and Error Boundary in React Explained](https://reetesh.in/blog/suspense-and-error-boundary-in-react-explained)
+- [Nginx as Reverse Proxy for Kubernetes Services](https://reetesh.in/blog/nginx-as-reverse-proxy-for-kubernetes-services)
 
 
 <!-- BLOG:END -->
